@@ -1,0 +1,14 @@
+--- Basic login system ---
+
+Description:
+- In comandline interface
+- Text based
+- txt file as DB --> txt is stored in a JSON format
+- Basic functions in seperate file
+
+Functionalities:
+- Login
+- Create account
+- Logout
+
+
